@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="IstEsMittwoch:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/IstEsMittwoch_jar</output-path>
+    <root id="archive" name="IstEsMittwoch.jar">
+      <element id="module-output" name="IstEsMittwoch" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../twitter4j-core-4.0.7.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
